@@ -12,6 +12,7 @@ OUTPUT_PATH = "outputs/result.png"
 
 # Model config
 CONFIG = {
+    
     'model': {
         'pretrained': 'runwayml/stable-diffusion-inpainting'
     }
